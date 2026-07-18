@@ -2,7 +2,7 @@ name: Daily Weather Summary
 
 on:
   schedule:
-    - cron: "15 21 * * *"
+    - cron: "17 21 * * *"
   workflow_dispatch: {}
 
 jobs:
